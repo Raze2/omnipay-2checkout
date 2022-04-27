@@ -1,11 +1,11 @@
 {
-    "name": "collizo4sky/omnipay-2checkout",
+    "name": "Raze2/omnipay-2checkout",
     "description": "2Checkout driver for the Omnipay payment processing library",
     "keywords": [
         "omnipay",
         "2checkout"
     ],
-    "homepage": "https://github.com/collizo4sky/omnipay-2checkout",
+    "homepage": "https://github.com/Raze2/omnipay-2checkout",
     "license": "MIT",
     "authors": [
         {

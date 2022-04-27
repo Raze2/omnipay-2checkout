@@ -1,5 +1,5 @@
 {
-    "name": "Raze2/omnipay-2checkout",
+    "name": "raze2/omnipay-2checkout",
     "description": "2Checkout driver for the Omnipay payment processing library",
     "keywords": [
         "omnipay",
